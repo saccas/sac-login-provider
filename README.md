@@ -1,15 +1,11 @@
 # sac-login-provider
-Tools for SAC Login implementation.
-Examples for different Systems in Sections
+
+Tools & Ressources for SAC Login implementation.
 
 
 
 
-# Collection of implementations based on SAC-Login
-
-
-
-
+# List of known implementations based on SAC-Login
 |  CMS 	|  Section 	| URL | 
 |---	|---	|---|
 |   Contao	|  SAC Pilatus 	|https://github.com/markocupic/swiss-alpine-club-contao-login-client-bundle
