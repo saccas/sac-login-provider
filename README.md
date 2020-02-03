@@ -2,9 +2,6 @@
 
 Tools & Ressources for SAC Login implementation.
 
-
-
-
 # List of known implementations based on SAC-Login
 |  CMS 	|  Section 	| URL | 
 |---	|---	|---|
